@@ -97,8 +97,9 @@ Full-Stack Web Developer specializing in **ASP.NET MVC**, **SQL Server**, and **
 
 **Freelance Web Developer & Automation Specialist** — Freelancer.com | 2026 – Present | 5.0/5.0 ⭐
 - Delivered  projects across web development, data scraping, and automation for international clients with a 100% successful delivery rate
-- 
+  
 - Built a **Python + Selenium** data-extraction pipeline for a Greek client that scraped 20+ paginated pages and auto-converted results into structured Excel — cutting manual processing time by ~90%
+  
 - Won a contest titled AI Rantir Developer and delivered premium website designs to client.
 
 **Web Development Intern** — MSN Academy (Remote) | July 2025 – Sept 2025
