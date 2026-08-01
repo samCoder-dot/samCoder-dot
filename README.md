@@ -1,10 +1,15 @@
-<h1 align="center">Hi there 👋, I'm Samraan Arshad</h1>
-<h3 align="center">Full-Stack Web Developer | ASP.NET MVC • C# • SQL Server • Python Automation</h3>
+<p align="center">
+  <img src="./assets/hero.svg" alt="Samran Arshad — Full-Stack Web Developer" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Samran+Arshad+%F0%9F%91%8B;I+build+websites+%F0%9F%92%BB;I+scrape+data+%F0%9F%95%B7%EF%B8%8F;I+automate+workflows+%F0%9F%90%8D;I+built+Mualim-UL-Quran+%F0%9F%95%8C" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samraan-arshad-726ba3230" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:samraanarshad3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.freelancer.com/u/samranDesigner" target="_blank"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" /></a>
+  <a href="https://www.freelancer.com/u/samraanWriter123" target="_blank"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" /></a>
 </p>
 
 ---
@@ -15,7 +20,7 @@ Full-Stack Web Developer specializing in **ASP.NET MVC**, **SQL Server**, and **
 
 - 🎓 BS Computer Science (Web Engineering) @ BIIT, PMAS Arid University — *Expected Dec 2026*
 - 🕌 FYP: **Mualim-UL-Quran**, an interactive Quran learning platform — approved by university committee
-- 💼 Freelance Web Developer & Automation Specialist  — Freelancer.com, 5.0/5.0 ⭐
+- 💼 Freelance Web Developer & Automation Specialist since 2024 — Freelancer.com, 4.8/5.0 ⭐
 - 🏢 Founder of **WebLyteX** — an ASP.NET MVC development & QA/testing agency (in development)
 - 📫 Reach me at **samraanarshad3@gmail.com**
 
@@ -95,12 +100,10 @@ Full-Stack Web Developer specializing in **ASP.NET MVC**, **SQL Server**, and **
 
 ### 💼 Experience
 
-**Freelance Web Developer & Automation Specialist** — Freelancer.com | 2026 – Present | 5.0/5.0 ⭐
-- Delivered  projects across web development, data scraping, and automation for international clients with a 100% successful delivery rate
-  
+**Freelance Web Developer & Automation Specialist** — Freelancer.com | 2024 – Present | 4.8/5.0 ⭐
+- Delivered 10+ projects across web development, data scraping, and automation for international clients with a 100% successful delivery rate
 - Built a **Python + Selenium** data-extraction pipeline for a Greek client that scraped 20+ paginated pages and auto-converted results into structured Excel — cutting manual processing time by ~90%
-  
-- Won a contest titled AI Rantir Developer and delivered premium website designs to client.
+- Shipped 6 contest-winning HTML/CSS entries across OTA booking, charity, real estate, café rebranding, dental clinic, and sci-fi landing page niches
 
 **Web Development Intern** — MSN Academy (Remote) | July 2025 – Sept 2025
 - Contributed to live client projects alongside a professional development team
@@ -112,14 +115,14 @@ Full-Stack Web Developer specializing in **ASP.NET MVC**, **SQL Server**, and **
 
 | Project | Description | Stack |
 |---|---|---|
-| [WebLyteX](https://github.com/samCoder-dot/WebApplication8) | Founded agency offering ASP.NET MVC dev, scraping & QA services — includes a responsive marketing site | ASP.NET MVC, Bootstrap 5, jQuery, Azure |
+| [WebLyteX](https://github.com/samCoder-dot) | Founded agency offering ASP.NET MVC dev, scraping & QA services — includes a responsive marketing site | ASP.NET MVC, Bootstrap 5, jQuery, Azure |
 | [Scalable Polling System](https://github.com/samCoder-dot/scalable-polling-system) | Multi-poll platform with role-based access; admins manage polls, users vote with live real-time results | ASP.NET MVC, SQL Server, C# |
-| [Cafe Landing Page Design](https://github.com/samCoder-dot/Genika-Cafe-Redesign) | Cafe Landing Page Design | HTML,CSS,JavaScript,BootStrap |
+| [Naat Khawan Album Management System](https://github.com/samCoder-dot) | Registration & album-management system with SQL-injection prevention and secure image uploads | ASP.NET MVC, SQL Server, C# |
 | [DentalClinicWebsite](https://github.com/samCoder-dot/DentalClinicWebsite) | Freelance contest-winning dental clinic site (Poland) | HTML, CSS |
 | [MSN-ACADEMY-PROJECT](https://github.com/samCoder-dot/MSN-ACADEMY-PROJECT) | Work from MSN Academy remote internship | JavaScript |
 | [Sci-Fi-Landing-Page](https://github.com/samCoder-dot/Sci-Fi-Landing-Page) | Freelance contest-winning sci-fi themed landing page | HTML, CSS |
 
-
+*(Replace WebLyteX / Naat Khawan links with their actual repo URLs once pushed to GitHub.)*
 
 ---
 
