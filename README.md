@@ -7,10 +7,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Samran+Arshad+%F0%9F%91%8B;I+build+websites+%F0%9F%92%BB;I+scrape+data+%F0%9F%95%B7%EF%B8%8F;I+automate+workflows+%F0%9F%90%8D;I+built+Mualim-UL-Quran+%F0%9F%95%8C" alt="Typing SVG" />
 </p>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/samraan-arshad-726ba3230" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:samraanarshad3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.freelancer.com/u/samraanWriter123" target="_blank"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" /></a>
+  <a href="https://www.freelancer.com/u/samranDesigner" target="_blank"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" /></a>
 </p>
 
 ---
