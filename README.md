@@ -99,7 +99,7 @@ Full-Stack Web Developer specializing in **ASP.NET MVC**, **SQL Server**, and **
 - Delivered  projects across web development, data scraping, and automation for international clients with a 100% successful delivery rate
 - 
 - Built a **Python + Selenium** data-extraction pipeline for a Greek client that scraped 20+ paginated pages and auto-converted results into structured Excel — cutting manual processing time by ~90%
-- Shipped 6 contest-winning HTML/CSS entries across OTA booking, charity, real estate, café rebranding, dental clinic, and sci-fi landing page niches
+- Won a contest titled AI Rantir Developer and delivered premium website designs to client.
 
 **Web Development Intern** — MSN Academy (Remote) | July 2025 – Sept 2025
 - Contributed to live client projects alongside a professional development team
