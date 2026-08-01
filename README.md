@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Samran Arshad — Full-Stack Web Developer" width="100%" />
+  <img src="hero.svg" alt="Samran Arshad — Full-Stack Web Developer" width="100%" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Samran+Arshad+%F0%9F%91%8B;I+build+websites+%F0%9F%92%BB;I+scrape+data+%F0%9F%95%B7%EF%B8%8F;I+automate+workflows+%F0%9F%90%8D;I+built+Mualim-UL-Quran+%F0%9F%95%8C" alt="Typing SVG" />
