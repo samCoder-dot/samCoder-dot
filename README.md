@@ -112,7 +112,7 @@ Full-Stack Web Developer specializing in **ASP.NET MVC**, **SQL Server**, and **
 
 | Project | Description | Stack |
 |---|---|---|
-| [WebLyteX](https://github.com/samCoder-dot) | Founded agency offering ASP.NET MVC dev, scraping & QA services — includes a responsive marketing site | ASP.NET MVC, Bootstrap 5, jQuery, Azure |
+| [WebLyteX](https://github.com/samCoder-dot/WebApplication8) | Founded agency offering ASP.NET MVC dev, scraping & QA services — includes a responsive marketing site | ASP.NET MVC, Bootstrap 5, jQuery, Azure |
 | [Scalable Polling System](https://github.com/samCoder-dot/scalable-polling-system) | Multi-poll platform with role-based access; admins manage polls, users vote with live real-time results | ASP.NET MVC, SQL Server, C# |
 | [Naat Khawan Album Management System](https://github.com/samCoder-dot) | Registration & album-management system with SQL-injection prevention and secure image uploads | ASP.NET MVC, SQL Server, C# |
 | [DentalClinicWebsite](https://github.com/samCoder-dot/DentalClinicWebsite) | Freelance contest-winning dental clinic site (Poland) | HTML, CSS |
