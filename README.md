@@ -16,6 +16,7 @@
 
 ---
 
+
 ### 🚀 About Me
 
 Full-Stack Web Developer specializing in **ASP.NET MVC**, **SQL Server**, and **Python-based automation**. I independently built my Final Year Project — a digitized, interactive Quran-learning platform based on a curriculum used in 300+ Pakistani universities — and freelance internationally with a **4.8/5.0 rating** across 10+ delivered projects.
