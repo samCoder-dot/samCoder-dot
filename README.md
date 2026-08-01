@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/samraan-arshad-726ba3230" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:samraanarshad3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.freelancer.com/u/samraanWriter123" target="_blank"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" /></a>
+  <a href="https://www.freelancer.com/u/samranDesigner" target="_blank"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" /></a>
 </p>
 
 ---
